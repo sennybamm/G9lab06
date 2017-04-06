@@ -39,3 +39,8 @@ src/
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+!/src/
+!/.idea/
+/.idea/
+!/pom.xml
+!/.gitignore
