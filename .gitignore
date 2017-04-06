@@ -1,0 +1,41 @@
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
+*.iml
+target/
+.iml
+/2015/lab01/lab01-netbean/SwingApp/nbproject/private/
+out/
+log/
+logs/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore gradle files
+.gradle/
+build/
+
+#ignore the angular2 generated files
+node_modules
+jspm_packages
+npm-debug.*
+link-checker-results.txt
+**/app/**/*.js
+*.s.map
+**/e2e/**/*.js
+**/e2e/**/*.js.map
+_test-output
+_temp# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+G9lab06.iml
+pom.xml
+src/
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
